@@ -13,13 +13,13 @@ If nothing was shared during the week, we pick something on the spot when we mee
 
 ## This week
 
-**[KEP-3157: Streaming lists (WatchList)](keps/2026-11-02-kep-3157-watchlist.md)**, discussion on Sunday 8 Nov.
+**[KEP-4006: Transition from SPDY to WebSockets](keps/2026-10-31-kep-4006-spdy-to-websockets.md)**, discussion on Sunday 1 Nov at 20:00 (Tunisia time).
 
 ## Archive
 
 | Date | Type | Reading |
 |------|------|---------|
-| 2026-11-02 | KEP | [KEP-3157: Streaming lists (WatchList)](keps/2026-11-02-kep-3157-watchlist.md) |
+| 2026-10-31 | KEP | [KEP-4006: Transition from SPDY to WebSockets](keps/2026-10-31-kep-4006-spdy-to-websockets.md) |
 
 ## Folders
 
