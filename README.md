@@ -13,14 +13,14 @@ If nothing was shared during the week, we pick something on the spot when we mee
 
 ## This week
 
-**[In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-05-raft.md)**, discussion on Sunday 8 Nov at 20:00 (Tunisia time).
+**[In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-08-raft.md)**, discussion on Sunday 8 Nov at 20:00 (Tunisia time).
 
 ## Archive
 
 | Date | Type | Reading |
 |------|------|---------|
-| 2026-11-05 | Paper | [In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-05-raft.md) |
-| 2026-10-31 | KEP | [KEP-4006: Transition from SPDY to WebSockets](keps/2026-10-31-kep-4006-spdy-to-websockets.md) |
+| 2026-11-08 | Paper | [In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-08-raft.md) |
+| 2026-11-01 | KEP | [KEP-4006: Transition from SPDY to WebSockets](keps/2026-11-01-kep-4006-spdy-to-websockets.md) |
 
 ## Folders
 
@@ -35,4 +35,4 @@ If nothing was shared during the week, we pick something on the spot when we mee
 
 ## Adding a reading
 
-Copy [`TEMPLATE.md`](TEMPLATE.md) into the right folder, name it `YYYY-MM-DD-short-name.md` (the date the reading is shared), and add a row to the archive table above.
+Copy [`TEMPLATE.md`](TEMPLATE.md) into the right folder, name it `YYYY-MM-DD-short-name.md` (the Sunday it's discussed), and add a row to the archive table above.
