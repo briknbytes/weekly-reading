@@ -13,12 +13,13 @@ If nothing was shared during the week, we pick something on the spot when we mee
 
 ## This week
 
-**[In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-08-raft.md)**, discussion on Sunday 8 Nov at 20:00 (Tunisia time).
+**[KEP-5866: Server-side Sharded List and Watch](keps/2026-11-15-kep-5866-sharded-list-watch.md)**, discussion on Sunday 15 Nov at 20:00 (Tunisia time).
 
 ## Archive
 
 | Date | Type | Reading |
 |------|------|---------|
+| 2026-11-15 | KEP | [KEP-5866: Server-side Sharded List and Watch](keps/2026-11-15-kep-5866-sharded-list-watch.md) |
 | 2026-11-08 | Paper | [In Search of an Understandable Consensus Algorithm (Raft)](papers/2026-11-08-raft.md) |
 | 2026-11-01 | KEP | [KEP-4006: Transition from SPDY to WebSockets](keps/2026-11-01-kep-4006-spdy-to-websockets.md) |
 
